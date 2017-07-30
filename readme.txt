@@ -1,0 +1,1 @@
+1. npm install --save react-addons-css-transition-group
